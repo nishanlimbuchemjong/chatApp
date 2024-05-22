@@ -1,2 +1,2 @@
 # chatApp
-chatting app
+chatting app development
